@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kundanmaurya169
+- 👀 I’m interested in web development, particularly with JavaScript frameworks like React and Node.js.
+- 🌱 I’m currently learning more about backend development and database management.
+- 💞️ I’m looking to collaborate on open-source projects or any innovative web applications.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring nature trails!
